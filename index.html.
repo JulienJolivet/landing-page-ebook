@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Optimisez Vos Bureaux - Téléchargez Notre Livre Blanc</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tailwindcss/2.2.19/tailwind.min.css">
+</head>
+<body class="bg-gray-100">
+    <section class="bg-blue-600 text-white text-center py-16 px-6">
+        <h1 class="text-4xl font-bold">Optimisez Vos Espaces de Travail</h1>
+        <p class="text-lg mt-4">Téléchargez notre livre blanc gratuit et découvrez 10 astuces pour un aménagement efficace.</p>
+        <img src="ebook-mockup.jpg" alt="Livre Blanc Agile²" class="mx-auto mt-6 w-64">
+    </section>
+    
+    <section class="bg-white max-w-3xl mx-auto p-8 rounded-lg shadow-lg mt-10">
+        <h2 class="text-2xl font-semibold text-center">Recevez votre livre blanc</h2>
+        <form class="mt-6 space-y-4">
+            <input type="text" placeholder="Nom" class="w-full p-3 border border-gray-300 rounded">
+            <input type="text" placeholder="Prénom" class="w-full p-3 border border-gray-300 rounded">
+            <input type="email" placeholder="Email professionnel" class="w-full p-3 border border-gray-300 rounded">
+            <input type="text" placeholder="Entreprise" class="w-full p-3 border border-gray-300 rounded">
+            <button class="w-full bg-blue-600 text-white py-3 rounded text-lg font-bold hover:bg-blue-700">Télécharger gratuitement</button>
+        </form>
+    </section>
+    
+    <section class="max-w-3xl mx-auto mt-10 text-center">
+        <h3 class="text-xl font-bold">Pourquoi télécharger ce livre blanc ?</h3>
+        <ul class="mt-4 space-y-2">
+            <li>✅ Optimiser l’espace et le mobilier</li>
+            <li>✅ Améliorer le bien-être et la productivité</li>
+            <li>✅ Économiser sur l’aménagement sans sacrifier la qualité</li>
+        </ul>
+    </section>
+    
+    <footer class="bg-gray-800 text-white text-center py-6 mt-10">
+        <p>© 2024 Agile² - Contactez-nous : <a href="mailto:contact@agile2.fr" class="underline">contact@agile2.fr</a></p>
+    </footer>
+</body>
+</html>
