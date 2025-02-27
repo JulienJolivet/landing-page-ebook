@@ -1,0 +1,7 @@
+<form name="ebook-lead-form" method="POST" data-netlify="true" class="mt-6 space-y-4">
+    <input type="text" name="nom" placeholder="Nom" class="w-full p-3 border border-gray-300 rounded" required>
+    <input type="text" name="prenom" placeholder="Prénom" class="w-full p-3 border border-gray-300 rounded" required>
+    <input type="email" name="email" placeholder="Email professionnel" class="w-full p-3 border border-gray-300 rounded" required>
+    <input type="text" name="entreprise" placeholder="Entreprise" class="w-full p-3 border border-gray-300 rounded">
+    <button type="submit" class="w-full bg-blue-600 text-white py-3 rounded text-lg font-bold hover:bg-blue-700">Télécharger gratuitement</button>
+</form>
